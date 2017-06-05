@@ -1,4 +1,6 @@
-Older version of Tensorflow(0.9) was used: 
+Basic Approach of using Dynamic RNN using Tensorflow
+
+Older version of Tensorflow(0.9) was used on a dummy dataset: 
 
 Program:
 
